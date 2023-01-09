@@ -1,5 +1,5 @@
-# Jainish_Portfolio
-Data Science Projects
+# Jainish_Shingala
+Data Science Project Portfolio
 
 # [Project 1: Flight Price Estimator: Project Overview](https://github.com/Jainish-006/Flight-Ticket-Price-Prediction-Model)
 * Created a web page that estimate flight price to help people approximate ticket price.
