@@ -1,4 +1,3 @@
-# Jainish Shingala
 Data Science Project Portfolio
 
 # [Project 1: Flight Price Estimator: Project Overview](https://github.com/Jainish-006/Flight-Ticket-Price-Prediction-Model)
