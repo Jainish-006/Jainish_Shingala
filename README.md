@@ -1,7 +1,7 @@
 ## Data Science Project Portfolio
 
 # [Project 1: Flight Price Estimator: Project Overview](https://github.com/Jainish-006/Flight-Ticket-Price-Prediction-Model)
-* Created a web page that estimate flight price to help people approximate ticket price.
+* Created graphical user interface (GUI) where users can specify information and get the estimated flight ticket price in the result.
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 * Built a server side demonstration in python flask to get http request in a web page.
 
